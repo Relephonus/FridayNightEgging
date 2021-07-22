@@ -10,9 +10,6 @@ Play the original fnf build on the [Itch.io page](https://ninja-muffin24.itch.io
 
 Go support the original repository for the game [here](https://github.com/ninjamuffin99/Funkin)!
 
-
-# You can play a demo of the mod up on the export folder
-
 <p align="center">
 	💖💖
 </p>
