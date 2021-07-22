@@ -1,0 +1,9 @@
+[178[ [208[ [0[ [46[ |LunchboxScary| *100* =1= #pixel_spirit#  <0.08< >4> (0.2( )5) {0.83{ }5} `spirit_button` ~clickText~
+:dadi: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_spirit# ^pixelText^ !#FFFFFFFF! ?#FF000000? .#FF000000. ~~      Yo is the pizzaman here already?
+:bf: !default! [Arial[ ]49] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #pixel_spirit# ^pixelText^ !#FFFFFFFF! ?#FF000000? .#FF000000. ~~      Nah, but im here instead
+:dad: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.07; |true| #pixel_spirit# ^pixelText^ !#FFFFFFFF! ?#FF000000? .#FF000000. ~~      fuck you.
+:bf: !default! [Arial[ ]49] *100* =0= +0+ -0- <0< >0> ;0.1; |true| #pixel_spirit# ^pixelText^ !#FFFFFFFF! ?#FF000000? .#FF000000. ~~      What yo name meanass?
+:dad: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.15; |true| #pixel_spirit# ^pixelText^ !#FFFFFFFF! ?#FF000000? .#FF000000. ~~      Scramble. Scramble M Egger. What bout yours?
+:bf: !default! [Arial[ ]49] *100* =0= +0+ -0- <0< >0> ;0.1; |true| #pixel_spirit# ^pixelText^ !#FFFFFFFF! ?#FF000000? .#FF000000. ~~      Boyfriend. Boyfriend.xml
+:dad: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.15; |true| #pixel_spirit# ^pixelText^ !#FFFFFFFF! ?#FF000000? .#FF000000. ~~      YOU NAME YOURSELF AFTER YOUR SPRITE SHEET FILE LMAOOOOO
+:bf: !default! [Arial[ ]49] *100* =0= +0+ -0- <0< >0> ;0.1; |true| #pixel_spirit# ^pixelText^ !#FFFFFFFF! ?#FF000000? .#FF000000. ~~      stfu lets rap
